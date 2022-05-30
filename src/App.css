@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-color: #f9fadc !important;
+    overflow: hidden;
+    position: relative;
+}
+
+a {
+    text-decoration: none !important;
+    color: #000;
+}
